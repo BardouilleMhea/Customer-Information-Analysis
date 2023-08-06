@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,gender,age,country,purchase_amount,order_count,average_order_value
+1,John,Doe,john.doe@example.com,Male,30,United States,100,1,100
+2,Jane,Doe,jane.doe@example.com,Female,25,Canada,50,2,25
+3,Peter,Smith,peter.smith@example.com,Male,40,United Kingdom,200,3,66.67
+4,Mary,Jones,mary.jones@example.com,Female,35,Australia,150,4,37.5
+5,Michael,Brown,michael.brown@example.com,Male,20,Germany,50,1,50
+6,Sarah,Williams,sarah.williams@example.com,Female,28,United States,120,2,60
+7,David,Green,david.green@example.com,Male,32,Canada,150,3,50
+8,Emily,Johnson,emily.johnson@example.com,Female,36,United Kingdom,200,4,50
+9,Thomas,Wilson,thomas.wilson@example.com,Male,40,Australia,250,5,50
+10,Ashley,Anderson,ashley.anderson@example.com,Female,25,Germany,100,2,50
+11,Benjamin,Thomas,benjamin.thomas@example.com,Male,20,United States,75,1,75
+12,Olivia,Davis,olivia.davis@example.com,Female,28,Canada,100,2,50
+13,Lucas,Martin,lucas.martin@example.com,Male,32,United Kingdom,150,3,50
+14,Sophia,Miller,sophia.miller@example.com,Female,36,Australia,200,4,50
+15,William,Jackson,william.jackson@example.com,Male,40,Germany,250,5,50
+16,Emma,Thompson,emma.thompson@example.com,Female,25,United States,100,2,50
+17,Noah,Walker,noah.walker@example.com,Male,20,Canada,75,1,75
+18,Lily,James,lily.james@example.com,Female,28,United Kingdom,100,2,50
+19,Oliver,Brown,oliver.brown@example.com,Male,32,Australia,150,3,50
+20,Ava,Green,ava.green@example.com,Female,36,Germany,200,4,50
+21,Lucas,Williams,lucas.williams@example.com,Male,40,United States,250,5,50
+22,Sophia,Jones,sophia.jones@example.com,Female,25,Canada,100,2,50
+23,William,Smith,william.smith@example.com,Male,20,United Kingdom,75,1,75
+24,Emma,Taylor,emma.taylor@example.com,Female,28,Australia,100,2,50
+25,Noah,Wilson,noah.wilson@example.com,Male,32,Germany,150,3,50
+26,Lily,Davis,lily.davis@example.com,Female,36,United States,200,4,50
+27,Oliver,Martin,oliver.martin@example.com,Male,40,Canada,250,5,50
+28,Ava,Jackson,ava.jackson@example.com,Female,25,United Kingdom,100,2,50
+29,Lucas,Thompson,lucas.thompson@example.com,Male,20,Australia,75,1,75
+30,Sophia,Walker,sophia.walker@example.com,Female,28,Germany,100,2
