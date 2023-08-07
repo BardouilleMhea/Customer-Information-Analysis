@@ -18,7 +18,7 @@ The dataset includes customer information for 30 customers. Each customer's deta
 We have several hypotheses to explore in this dataset:
 1. [**Gender and Purchase Behavior**:](gender_purchase_behavior.ipynb) Investigate if there are any differences in purchase behavior (purchase_amount, order_count, average_order_value) between male and female customers.
 2. [**Age and Purchase Behavior**:](age_purchase_behavior.ipynb) Examine whether customer age influences their purchase behavior. Analyze how purchase_amount, order_count, and average_order_value vary across different age groups.
-3. **Country and Purchase Behavior**: Compare the purchase behavior of customers from different countries (United States, Canada, United Kingdom, Australia, Germany).
+3. [**Country and Purchase Behavior**:](country_purchase_behavior.ipynb) Compare the purchase behavior of customers from different countries (United States, Canada, United Kingdom, Australia, Germany).
 4. **Email Domain and Purchase Behavior**: Check if the length of email addresses might be related to the purchase behavior of customers.
 5. **Customer Loyalty and Purchase Behavior**: Investigate whether more frequent customers (higher order_count) tend to spend more (higher purchase_amount).
 6. **Average Order Value Trends**: Observe if there are any trends in the average_order_value over time or based on customer attributes.
