@@ -24,8 +24,8 @@ We have several hypotheses to explore in this dataset:
 6. [**Average Order Value Trends**:](avg_order_value_trends.ipynb) Observe if there are any trends in the average_order_value over time or based on customer attributes.
 7. [**Gender Representation**:](gender_representation.ipynb) Examine the gender distribution among customers to understand if there is any gender imbalance.
 8. [**Age Distribution**:](age_distribution.ipynb) Explore the age distribution of customers to determine if the target audience is concentrated in a specific age range.
-9. **Top Spenders**: Identify the top customers based on purchase_amount and analyze their characteristics and purchase behavior.
-10. **Customer Geography**: Analyze the distribution of customers across different countries to identify potential geographical markets.
+9. [**Top Spenders**:](top_spenders.ipynb) Identify the top customers based on purchase_amount and analyze their characteristics and purchase behavior.
+10. [**Customer Geography**:](customer_geography.ipynb)Analyze the distribution of customers across different countries to identify potential geographical markets.
 
 # Usage
 
