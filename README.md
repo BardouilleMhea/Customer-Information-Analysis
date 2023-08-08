@@ -22,7 +22,7 @@ We have several hypotheses to explore in this dataset:
 4. [**Email Domain and Purchase Behavior**:](email_domain_purchase_behavior.ipynb) Check if the length of email addresses might be related to the purchase behavior of customers.
 5. [**Customer Loyalty and Purchase Behavior**:](customer_loyalty_purchase_behavior.ipynb) Investigate whether more frequent customers (higher order_count) tend to spend more (higher purchase_amount).
 6. [**Average Order Value Trends**:](avg_order_value_trends.ipynb) Observe if there are any trends in the average_order_value over time or based on customer attributes.
-7. **Gender Representation**: Examine the gender distribution among customers to understand if there is any gender imbalance.
+7. [**Gender Representation**:](gender_representation.ipynb) Examine the gender distribution among customers to understand if there is any gender imbalance.
 8. **Age Distribution**: Explore the age distribution of customers to determine if the target audience is concentrated in a specific age range.
 9. **Top Spenders**: Identify the top customers based on purchase_amount and analyze their characteristics and purchase behavior.
 10. **Customer Geography**: Analyze the distribution of customers across different countries to identify potential geographical markets.
