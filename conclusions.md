@@ -27,3 +27,9 @@ Here are the conclusions that can be drawn from the data exploration and visuali
 **Average Order Value Trends:**
 * There may not be a clear trend or pattern in the average order value over time or based on customer attributes.
 * Further analysis and statistical tests would be required to draw any conclusions about the trends in average order value.
+
+  **Gender Representation:**
+  * The gender distribution of customers is relatively balanced, with a slight majority of male customers.
+
+   **Age Representation:**
+  *  The target audience is relatively evenly distributed across different age groups, with the highest number of customers in the 25-29 and 40-44 age groups.
