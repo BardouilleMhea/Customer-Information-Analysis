@@ -28,8 +28,18 @@ Here are the conclusions that can be drawn from the data exploration and visuali
 * There may not be a clear trend or pattern in the average order value over time or based on customer attributes.
 * Further analysis and statistical tests would be required to draw any conclusions about the trends in average order value.
 
-  **Gender Representation:**
-  * The gender distribution of customers is relatively balanced, with a slight majority of male customers.
+**Gender Representation:**
+* The gender distribution of customers is relatively balanced, with a slight majority of male customers.
 
-   **Age Representation:**
-  *  The target audience is relatively evenly distributed across different age groups, with the highest number of customers in the 25-29 and 40-44 age groups.
+**Age Distribution:**
+* The age distribution of customers is relatively evenly distributed across different age groups, with the highest number of customers in the 25-29 and 40-44 age groups.
+
+ **Top Spenders:**
+* There is a positive correlation between purchase amount and order count, indicating that customers who spend more tend to place more orders.
+* Customers from the United States, Canada, and Germany tend to spend more than customers from other countries
+
+**Customer Geography:**
+* The mean purchase amount is higher in the United States and Germany than in other countries, indicating that these countries have stronger purchasing power or higher-value markets.
+
+
+
